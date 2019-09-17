@@ -2,9 +2,10 @@
 UI Design in Processing for elevator
 
 
-![Elevator in Action](https://github.com/mbarbier9/UIELEVATOR/blob/master/elevator/GIFElevator1.gif)
 
 ## PART C
+
+![Elevator in Action](https://github.com/mbarbier9/UIELEVATOR/blob/master/imageFiles/hw1.Barbier.gif)
 
 #### Issues with design:
 -	Color of the buttons is the same as the background
