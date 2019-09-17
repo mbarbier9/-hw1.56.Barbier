@@ -44,7 +44,7 @@ The common actions a user takes is keeping a door open and moving to different f
 -	Put lights on open and close doors for better user feedback
 -	Put buttons on a different colored surface for better user interaction and to avid any type of confusion
 
-#### My design
+### My design
 ![Elevator in Action](https://github.com/mbarbier9/UIELEVATOR/blob/master/imageFiles/DesignBarbier.PNG)
 
 ## PART A
