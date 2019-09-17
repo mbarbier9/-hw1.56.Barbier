@@ -1,6 +1,9 @@
 # UIELEVATOR
 UI Design in Processing for elevator
 
+
+![Test Image 4](https://github.com/mbarbier9/UIELEVATOR/blob/master/elevator/FLR1.png)
+
 ## PART C
 
 #### Issues with design:
