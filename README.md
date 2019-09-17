@@ -2,7 +2,7 @@
 UI Design in Processing for elevator
 
 
-![Test Image 4](https://github.com/mbarbier9/UIELEVATOR/blob/master/elevator/FLR1.png)
+![Elevator in Action](https://github.com/mbarbier9/UIELEVATOR/blob/master/elevator/GIFElevator1.gif)
 
 ## PART C
 
