@@ -48,4 +48,5 @@ The common actions a user takes is keeping a door open and moving to different f
 ![Elevator in Action](https://raw.githubusercontent.com/mbarbier9/uielevator/master/imageFiles/DesignBarbier.PNG)
 
 ## PART A
+https://www.youtube.com/watch?v=dwdRNNmBE8w
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dwdRNNmBE8w/0.jpg)](https://www.youtube.com/watch?v=dwdRNNmBE8w)
